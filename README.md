@@ -6,3 +6,7 @@ Nesta pagina terá um header funcional e um pequeno formulário já com validado
 
 ##  🚀 🚀 Tecnologias utilizadas 🚀🚀
 Utilzei apenas o React.JS ⚛️
+
+
+### Para visualizar?
+Basta que você clone o repositório e dê um npm install para que instale as dependências e em seguida um npm start.
